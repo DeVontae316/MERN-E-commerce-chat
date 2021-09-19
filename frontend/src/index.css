@@ -4,3 +4,17 @@ main {
 .nav-boot-row {
   display: flex;
 }
+.card-boot {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
+
+h3 {
+  padding: 1rem 0;
+}
